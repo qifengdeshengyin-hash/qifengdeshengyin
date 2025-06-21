@@ -1,2 +1,3 @@
 Data Analysis Report of MPRA for Atrial Fibrillation: Quality Assessment, System validation, and Activity adjustment
+
 Description: Due to the short project duration, current progress is limited; thus, only partly results from the exploratory phase are summarized. Relevant analytical codes have been uploaded, including: 1. Data quality assessment: Coverage analysis (distribution single.py) and replicate correlations (correlation 3 rep.py); 4. System validation: activity rank (density_stripe_4v4.py) and enrichment score calculation, pos/neg control separation test (enrichment_score.py); 5. Activity definition adjustment: formula revised (skewness.py) due to DNA-activity negative correlation (scatter plot value 2_2.py).
